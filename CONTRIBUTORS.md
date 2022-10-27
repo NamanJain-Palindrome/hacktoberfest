@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Naman Jain](https://github.com/NamanJain-Palindrome)
+- Place: India
+- Bio: Student
+- Github: [Naman Jain](https://github.com/NamanJain-Palindrome)
